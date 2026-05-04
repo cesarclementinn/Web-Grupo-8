@@ -12,7 +12,7 @@ Es un sitio web sobre consulta de noticias de deportes y tecnología
 - En las pestañas "Tecnologia" y "Deportes" se visualizan las noticias de esa categoria
 
 > Fuente:
-inherit
+- inherit
 
 > Paleta de colores principales utilizados:
   Celestes fijos y de selección:
@@ -22,8 +22,11 @@ inherit
 > Colorado de tratamiento de errores en el formulario:
 - #cf7d7d
 
->Color fuente:
+> Color fuente:
 - #111
+
+> Extra:
+- Se añade la funcionalidad Media Query de CSS para que la pagina tenga un diseño responsivo (página adaptativo a todo tipo de pantallas)
 
 
 
