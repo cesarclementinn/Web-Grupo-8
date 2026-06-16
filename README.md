@@ -10,7 +10,10 @@ Es un sitio web sobre consulta de noticias de deportes y tecnología
 - Tarjetas de de noticias con redirección a la noticia seleccionada
 - Formulario de contacto con tratamiento de errores al seleccionar "Enviar mensaje" sin rellenar campos mandatory
 - En las pestañas "Tecnologia" y "Deportes" se visualizan las noticias de esa categoria
-
+- Funcionalidad de cambio de tema y funcion localStorage para matener el tema entre los html
+- Funcionalidad para visualizar lla fecha y hora actual en el footer de cada html
+- funcionalidad Media Query de CSS para que la pagina tenga un diseño responsivo (página adaptativo a todo tipo de pantallas)
+- 
 > Fuente:
 - inherit
 
@@ -26,8 +29,7 @@ Es un sitio web sobre consulta de noticias de deportes y tecnología
 - #111
 
 > Extra:
-- Se añade la funcionalidad Media Query de CSS para que la pagina tenga un diseño responsivo (página adaptativo a todo tipo de pantallas)
-
+- Se añade la 
 
 
 Se entregará el link para visualizar el repositorio y el link de la pagina alojada por github.
