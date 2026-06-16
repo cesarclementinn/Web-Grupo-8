@@ -13,7 +13,7 @@ Es un sitio web sobre consulta de noticias de deportes y tecnología
 - Funcionalidad de cambio de tema y funcion localStorage para matener el tema entre los html
 - Funcionalidad para visualizar lla fecha y hora actual en el footer de cada html
 - funcionalidad Media Query de CSS para que la pagina tenga un diseño responsivo (página adaptativo a todo tipo de pantallas)
-- 
+  
 > Fuente:
 - inherit
 
